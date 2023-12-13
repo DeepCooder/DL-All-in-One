@@ -35,3 +35,10 @@
 </ul>
 
 <p>The colorful mindmaps summarize a lot of information compactly and aid understanding and recall.</p>
+
+<h2>Look some parts👀</h2>
+![CNN.png](https://github.com/DeepCooder/References/blob/main/CNN.png)https://github.com/DeepCooder/References/blob/main/CNN.png)
+![Transformer.png](https://github.com/DeepCooder/References/blob/main/Transformer%20.png)https://github.com/DeepCooder/References/blob/main/Transformer%20.png)
+
+
+
